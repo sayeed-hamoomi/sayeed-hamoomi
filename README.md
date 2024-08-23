@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayeed Hamoomi</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
-- 🔭 I’m currently working on **Simple Social API**
+- 🔭 I’m currently working on **Equit API**
 
 - 🌱 I’m currently learning **python**
 
